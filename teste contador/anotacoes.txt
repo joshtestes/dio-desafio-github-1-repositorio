@@ -1,0 +1,6 @@
+	
+	Essa aplicação simula um contador de números, ao clicar nos botões "+" e "-".
+
+-> botão mais = atribui um valor positivo para o numero,somando com 1;
+-> botão menos = decrementa o valor do numero,subtraindo com 1;
+-> botão "C" = limpa os intervalos,retornando para 0.
